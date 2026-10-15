@@ -1,0 +1,24 @@
+The Witcher 3;RPG;PC;2015;9.5;100;10000
+Elden Ring;RPG;PC;2022;9.3;80;18000
+Skyrim;RPG;PC;2011;9.0;120;7000
+Cyberpunk 2077;RPG;PC;2020;8.6;60;15000
+Hollow Knight;Platformer;PC;2017;9.2;40;5000
+Celeste;Platformer;Switch;2018;9.0;12;4000
+Super Mario Odyssey;Platformer;Switch;2017;9.1;25;20000
+Zelda: Breath of the Wild;Kaland;Switch;2017;9.7;90;22000
+God of War;Kaland;PS5;2018;9.4;30;15000
+The Last of Us;Kaland;PS5;2013;9.5;20;18000
+Doom Eternal;FPS;PC;2020;8.8;15;12000
+Counter-Strike 2;FPS;PC;2023;8.5;500;1000
+Valorant;FPS;PC;2020;8.2;300;1000
+Portal 2;Puzzle;PC;2011;9.6;9;3000
+The Witness;Puzzle;PC;2016;8.7;25;6000
+FIFA 23;Sport;PS5;2022;7.0;50;25000
+Rocket League;Sport;PC;2015;8.4;200;2000
+Minecraft;Sandbox;PC;2011;9.0;300;8000
+Terraria;Sandbox;PC;2011;9.1;150;2500
+Stardew Valley;Szimulator;PC;2016;9.3;110;3500
+Civilization VI;Strategia;PC;2016;8.8;180;12000
+Age of Empires II;Strategia;PC;1999;9.0;100;5000
+Hades;Roguelike;PC;2020;9.4;60;8000
+Dead Cells;Roguelike;Switch;2018;8.9;45;7000
